@@ -1,0 +1,5 @@
+The lab manual is at 
+   file://LAB_DOCS/detect_ml.pdf
+
+You may open these by right clicking
+and select "Open Link".
